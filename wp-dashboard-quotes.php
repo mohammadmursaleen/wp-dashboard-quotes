@@ -10,8 +10,10 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
 
-function dashboard_random_quotes() {
+defined('ABSPATH') or die("No script kiddies please!"); 
 
+
+function dashboard_random_quotes() {
 
 	$quotes = "If you cannot do great things, do small things in a great way.
 No act of kindness, no matter how small, is ever wasted.
