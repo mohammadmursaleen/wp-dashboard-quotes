@@ -11,7 +11,7 @@ Displays random Quotes in your dashboard. Inspired from Hello Dolly.
 
 == Description ==
 
-Inspired with Hello dolly, I decieded to make a plugin which will display random short and meaningful quotes in our dashboards to get inspiration while uploadin post or working in our backend. So finally here we are with WP Dashboard Quotes. H
+Inspired with Hello dolly, I decieded to make a plugin which will display random short and meaningful quotes in our dashboards to get inspiration while publishing post or working in our backend. So finally here we are with WP Dashboard Quotes.
 
 == Installation ==
 
