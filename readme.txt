@@ -1,5 +1,5 @@
-=== Plugin Name ===
-Contributors: mohammad-mursaleen
+=== WP Dashboard Quotes ===
+Contributors: Mohammad Mursaleen
 Tags: quotations , quotes , random quotes, random quotations
 Requires at least: 3.0
 Tested up to: 4.0
