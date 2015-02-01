@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Wp Dashboard Quotes
- * Plugin URI: http://www.trendclickers.com/
+ * Plugin URI: http://www.mursaleen.com/
  * Description: Displays random Quotes in your dashboard. Inspired from Hello Dolly. 
  * Version: 1.0
  * Author: Mohammad Mursaleen
- * Author URI: http://www.trendclickers.com/
+ * Author URI: http://www.mursaleen.com/
  * License: GPLv2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
